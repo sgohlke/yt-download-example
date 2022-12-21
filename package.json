@@ -1,0 +1,23 @@
+{
+  "name": "yt-download-example",
+  "version": "1.0.0",
+  "description": "Example of downloading from youtube and converting to mp3.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgohlke/empty-project.git"
+  },
+  "keywords": [],
+  "author": "Stefan Gohlke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgohlke/empty-project/issues"
+  },
+  "homepage": "https://github.com/sgohlke/empty-project#readme",
+  "dependencies": {
+    "yt-converter": "^1.3.2"
+  }
+}
