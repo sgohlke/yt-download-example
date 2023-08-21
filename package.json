@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sgohlke/empty-project.git"
+    "url": "git+https://github.com/sgohlke/yt-download-example.git"
   },
   "keywords": [],
   "author": "Stefan Gohlke",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sgohlke/empty-project/issues"
+    "url": "https://github.com/sgohlke/yt-download-example/issues"
   },
-  "homepage": "https://github.com/sgohlke/empty-project#readme",
+  "homepage": "https://github.com/sgohlke/yt-download-example#readme",
   "dependencies": {
-    "yt-converter": "1.3.3"
+    "yt-converter": "1.3.4"
   }
 }
